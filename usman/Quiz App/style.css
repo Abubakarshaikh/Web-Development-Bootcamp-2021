@@ -1,0 +1,16 @@
+.quiz-container{
+     background-color:aqua;
+     width:300px;
+     border-radius:10px;
+  }
+.quiz-header{
+   padding:20px;
+ }
+h1{
+     text-align:center;
+}
+
+button{
+ 
+ width:100%;
+}
