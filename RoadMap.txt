@@ -1,0 +1,23 @@
+#1. quiz-app
+JS: variables, built-in types, JS HTML DOM,
+Functions, control flow,
+------------------------------------------------------------
+HTML: Lists, Input Types, Block and Inline Elements
+------------------------------------------------------------------
+CSS: Backgrounds, Fonts, Display, Align, Flexbox, Box Model
+Height/Width, Overflow, Margins, Padding, Borders, Shadow
+Lists, Cursor, Colors, Outline
+
+
+
+#2. Project
+#3. Project
+#4. Project
+#5. Project
+#6. Project
+#7. Project
+#8. Project
+#9. Project
+#10. Project
+#11. Project
+#12. Project

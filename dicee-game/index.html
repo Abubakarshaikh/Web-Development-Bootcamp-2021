@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice-Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <div class="main-container" id="main-conatiner-img">
+        <img src="img/dice1.png" alt="image-not-found" id="diceImage1" onclick="rollDice()">
+        <img src="img/dice2.png" alt="image-not-found" id="diceImage2" onclick="rollDice()">
+    </div>
+</body>
+<script>
+   let num = 1;
+   let diceImage1 = document.getElementById('diceImage1').src = `img/dice${num}.png`;
+   let diceImage2 = document.getElementById('diceImage2').src = `img/dice${num}.png`;
+   rollDice()
+   function rollDice() {
+    num++
+    }
+</script>
+</html>

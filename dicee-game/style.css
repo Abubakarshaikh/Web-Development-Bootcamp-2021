@@ -1,0 +1,9 @@
+body{
+    background-color: orangered;
+}
+
+.main-container{
+    margin: auto;
+    width: 78%;
+    padding: 40px;
+}
